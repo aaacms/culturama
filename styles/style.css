@@ -294,6 +294,7 @@ img:hover {
     color: white;
     text-transform: uppercase;
     padding-top: 1rem;
+    font-family: var(--fonte-secundaria);
 }
 
 .agenda__informacoes h3 {
